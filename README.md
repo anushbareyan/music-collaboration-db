@@ -31,6 +31,7 @@ The database consists of the following tables:
 - **Recording_Effect_Mapping**: Manages the relationship between recordings and effects.
 
 ## Files Included:
+- **Creation of DB SQL File**: Creating the Database
 
 - **Use Cases SQL File**: Demonstrates various SQL operations, functions, and triggers showcasing the system's functionalities.
   
